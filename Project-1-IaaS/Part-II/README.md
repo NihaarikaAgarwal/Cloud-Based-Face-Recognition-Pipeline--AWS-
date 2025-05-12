@@ -30,5 +30,5 @@ This part extends Part I by adding:
 - Scales to 15 EC2s based on load
 - Entirely Python-based
 
-## Deep Learning Model used for inference
-https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/tree/model
+## References
+Deep Learning Model used for inference: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/tree/model
