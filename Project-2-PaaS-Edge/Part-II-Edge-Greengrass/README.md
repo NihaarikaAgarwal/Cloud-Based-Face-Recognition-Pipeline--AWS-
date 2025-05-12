@@ -10,7 +10,7 @@ This part moves face detection to a local (emulated) IoT device running Greengra
 
 ### Architecture Diagram
 
-![Architecture Diagram](./project2-part2-architecture.png)
+![Architecture Diagram](./Project2part2-architecture.png)
 
 ## Setup
 
