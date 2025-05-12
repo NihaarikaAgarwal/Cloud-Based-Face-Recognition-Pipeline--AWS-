@@ -9,7 +9,7 @@ This part implements a web-tier EC2 instance that accepts image uploads via HTTP
 
 ## Architecture Diagram
 
-![Architecture Diagram](./project1-part1-architecture.png)
+![Architecture Diagram](./Project1Part1-architecture.png)
 
 ## Features
 - Handles concurrent image uploads
