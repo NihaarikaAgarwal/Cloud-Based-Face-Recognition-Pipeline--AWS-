@@ -4,14 +4,17 @@ This repository showcases cloud-based face recognition applications developed us
 
 ## Repository Structure
 
+```
 cloud-computing-projects/
+│
 ├── Project-1-IaaS/
-│ ├── Part-I/
-│ ├── Part-II/
+│   ├── Part-I/
+│   └── Part-II/
+│
 ├── Project-2-PaaS-Edge/
-│ ├── Part-I-ECR-Lambda/
-│ ├── Part-II-Edge-Greengrass/
-
+│   ├── Part-I-ECR-Lambda/
+│   └── Part-II-Edge-Greengrass/
+```
 ## Project Summary
 
 | Project    | Architecture | Key AWS Services                | Highlights                                        |
