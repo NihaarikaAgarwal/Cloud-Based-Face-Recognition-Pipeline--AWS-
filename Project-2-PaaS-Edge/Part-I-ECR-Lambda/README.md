@@ -26,4 +26,10 @@ This part implements a two-stage serverless architecture using AWS Lambda and El
 - `opencv-python`
 - `boto3`
 
+## Reference
+Face recognition: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/blob/lambda/face-recognition/lamda_function.py
+Face detection: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/blob/lambda/face-detection/lamda_function.py
+Dockerfile: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/blob/lambda/Dockerfile
+Model weights: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/blob/model/resnetV1/resnetV1_video_weights.pt
+
 
