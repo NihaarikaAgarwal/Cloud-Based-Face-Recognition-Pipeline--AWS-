@@ -1,4 +1,4 @@
-## 🔹 Project 1 Summary: IaaS-Based Face Recognition
+## Project 1 Summary: IaaS-Based Face Recognition
 
 **Objective**: Build a scalable face recognition web app using EC2, S3, and SimpleDB. In Part II, introduce autoscaling with multiple app-tier instances.
 
