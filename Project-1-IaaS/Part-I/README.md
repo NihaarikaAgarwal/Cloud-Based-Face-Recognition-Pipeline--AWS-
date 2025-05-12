@@ -7,6 +7,10 @@ This part implements a web-tier EC2 instance that accepts image uploads via HTTP
 - **Storage:** Amazon S3
 - **Emulated Recognition:** AWS SimpleDB (lookup table)
 
+## Architecture Diagram
+
+![Architecture Diagram](./project1-part1-architecture.png)
+
 ## Features
 - Handles concurrent image uploads
 - Stores files in `<ASUID>-in-bucket`
