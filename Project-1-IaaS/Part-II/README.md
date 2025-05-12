@@ -14,6 +14,10 @@ This part extends Part I by adding:
 - **Controller:** controller.py for autoscaling logic
 - **SQS Queues:** `<ASUID>-req-queue`, `<ASUID>-resp-queue`
 
+## Architecture Diagram
+
+![Architecture Diagram](./project2-part2-architecture.png)
+
 ## Setup
 
 - Create and configure SQS queues
