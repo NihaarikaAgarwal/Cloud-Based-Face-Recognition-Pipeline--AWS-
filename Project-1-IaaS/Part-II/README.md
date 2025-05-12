@@ -16,7 +16,7 @@ This part extends Part I by adding:
 
 ## Architecture Diagram
 
-![Architecture Diagram](./project2-part2-architecture.png)
+![Architecture Diagram](./Project1Part2-architecture.png)
 
 ## Setup
 
