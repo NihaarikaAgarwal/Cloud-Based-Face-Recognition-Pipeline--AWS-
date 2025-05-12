@@ -23,3 +23,6 @@ This part moves face detection to a local (emulated) IoT device running Greengra
 - Uses AWS IoT Greengrass v2
 - Edge inference with real-time publishing
 - Uses MQTT over TLS
+
+## References
+Face Detection: https://github.com/CSE546-Cloud-Computing/CSE546-SPRING-2025/blob/lambda/face-detection/lamda_function.py
