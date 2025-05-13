@@ -1,1 +1,25 @@
-
+{
+  "RecipeFormatVersion": "2020-01-25",
+  "ComponentName": "com.clientdevices.FaceDetection",
+  "ComponentVersion": "1.0.0",
+  "ComponentDescription": "Face detection using TLS auth",
+  "ComponentPublisher": "Amazon",
+  "ComponentConfiguration": {
+    "DefaultConfiguration": {
+      "region": "us-east-1",
+      "req_queue_url": "",
+      "resp_queue_url": "",
+      "mqtt_topic": ""
+    }
+  },
+  "Manifests": [
+    {
+      "Platform": {
+        "os": "linux"
+      },
+      "Lifecycle": {
+        "run": "python3 -u {artifacts:path}/fd_component.py"
+      }
+    }
+  ]
+}
